@@ -1,2 +1,2 @@
-# SegmentationU-Net
-Sementic Segmentation using U-Net
+# Segmentation-U-Net
+Semantic Segmentation using U-Net
